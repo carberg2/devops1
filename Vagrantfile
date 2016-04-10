@@ -5,7 +5,7 @@
 # configures the configuration version (we support older styles for
 # backwards compatibility). Please don't change it unless you know what
 # you're doing.
-
+# I don't
 servers = ['first','second']
 
 Vagrant.configure(2) do |config|
